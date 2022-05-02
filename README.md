@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi 👋 My name is Taiwo Shina-Kelani
+Full stack developer
+I'm a developer, aspiring entrepreneur.
 
-<!--
-**kelani34/kelani34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I'm based in Nigeria
+🖥️  See my portfolio at kehlani.com
+✉️  You can contact me at kelanitaiwo34@gmail.com
+🚀  I'm currently working on Building my own 3d shoe company
+🧠  I'm learning Django
+⚡  I'm an easy going person who enjoys conversing with people. I also like discussing various topics and am not shy to ask questions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Python Javascript HTML5 CSS3 Bootstrap NodeJS Django
+
+Socials
+    
+
+Badges
+My GitHub Stats
+
+kelani34's GitHub stats
+
+
+
+GitHub Commits Graph
+
+Top Languages
+
+Support Me
