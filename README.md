@@ -10,7 +10,7 @@ I'm a developer, aspiring entrepreneur.
 * 🖥️  See my portfolio at [kehlani.com](http://kelani.netlify.app)
 * ✉️  You can contact me at [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
 * 🚀  I'm currently working on [Building my own 3d shoe company](http://kelanichatapp.netlify.app)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Flask
 * ⚡  I'm an easy going person who enjoys conversing with people. I also like discussing various topics and am not shy to ask questions.
 
 <a href="https://www.twitter.com/kehlanitaiwo" target="_blank" rel="noreferrer"><img
