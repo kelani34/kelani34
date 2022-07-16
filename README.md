@@ -7,9 +7,9 @@ Full stack developer
 I'm a developer, aspiring entrepreneur.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [kehlani.com](http://kelani.netlify.app)
+* 🖥️  See my portfolio at [darthcoder.com](http://darthcoder.netlify.app)
 * ✉️  You can contact me at [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
-* 🚀  I'm currently working on [Building my own 3d shoe company](http://kelanichatapp.netlify.app)
+* 🚀  I'm currently working on [Building a travel app to provide seamless travel experience to customers](http://urbantravel.vercel.app)
 * 🧠  I'm learning Flask
 * ⚡  I'm an easy going person who enjoys conversing with people. I also like discussing various topics and am not shy to ask questions.
 
