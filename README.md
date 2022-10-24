@@ -14,7 +14,7 @@ I'm a developer, aspiring entrepreneur.
 * ⚡  I'm an easy going person who enjoys conversing with people. I also like discussing various topics and am not shy to ask questions.
 
 <a href="https://www.twitter.com/kelanicodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kehlanitaiwo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/kelanicodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/kelani34" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kelani34?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
