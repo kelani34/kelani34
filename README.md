@@ -10,7 +10,7 @@ I'm a developer, aspiring entrepreneur.
 * 🖥️  See my portfolio at [darthcoder.com](http://darthcoder.netlify.app)
 * ✉️  You can contact me at [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
 * 🚀  I'm currently working on [Building a travel app to provide seamless travel experience to customers](http://urbantravel.vercel.app)
-* 🧠  I'm learning Flask
+* 🧠  I'm learning React
 * ⚡  I'm an easy going person who enjoys conversing with people. I also like discussing various topics and am not shy to ask questions.
 
 <a href="https://www.twitter.com/kelanicodes" target="_blank" rel="noreferrer"><img
