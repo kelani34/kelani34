@@ -7,7 +7,7 @@ Full stack developer
 I'm a developer, aspiring entrepreneur.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [darthcoder.com](http://darthcoder.netlify.app)
+* 🖥️  See my portfolio at [kelanicodes.com](http://kelanicodes.vercel.app)
 * ✉️  You can contact me at [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
 * 🚀  I'm currently working on [Building a travel app to provide seamless travel experience to customers](http://urbantravel.vercel.app)
 * 🧠  I'm learning React
