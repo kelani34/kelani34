@@ -10,7 +10,7 @@ I'm a developer, aspiring entrepreneur.
 * 🖥️  See my portfolio at [kelanicodes.com](http://kelanicodes.vercel.app)
 * ✉️  You can contact me at [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
 * 🚀  I'm currently working on BROWN LOG
-* 🧠  I'm learning React
+* 🧠  I'm learning Rust
 * ⚡  I'm an easy going person who enjoys conversing with people. I also like discussing various topics and am not shy to ask questions.
 
 <a href="https://www.twitter.com/kelanicodes" target="_blank" rel="noreferrer"><img
