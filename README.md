@@ -7,7 +7,6 @@ Full stack developer
 I'm a developer, aspiring entrepreneur.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [kelanicodes.com](http://kelanicodes.vercel.app)
 * ✉️  You can contact me at [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
 * 🚀  I'm currently working on BROWN LOG
 * 🧠  I'm learning Rust
