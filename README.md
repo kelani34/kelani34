@@ -1,19 +1,13 @@
-Hi 👋 My name is Taiwo Shina-Kelani
+Hi 👋 I'm Kehlani
 ===================================
-
-Full stack developer
---------------------
 
 I'm a developer, aspiring entrepreneur.
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
-* 🚀  I'm currently working on BROWN LOG
-* 🧠  I'm learning Rust
-* ⚡  I'm an easy going person who enjoys conversing with people. I also like discussing various topics and am not shy to ask questions.
+* ✉️  Send me a mail [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
+* 🚀 Building Masters of Logic
 
-<a href="https://www.twitter.com/kelanicodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kelanicodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/kelanist" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/kelanist?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/kelani34" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kelani34?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -32,7 +26,7 @@ src="https://img.shields.io/github/followers/kelani34?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.twitter.com/kelanicodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.twitter.com/kelanist" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
