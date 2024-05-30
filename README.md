@@ -1,16 +1,10 @@
-Hi 👋 I'm Kehlani
+Hi 👋 I'm Kehl
 ===================================
 
 I'm a fullstack developer, aspiring entrepreneur.
 
 * ✉️  Send me a mail [kelanitaiwo34@gmail.com](mailto:kelanitaiwo34@gmail.com)
 * 🚀 Building Masters of Logic
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.twitter.com/kelanist" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
